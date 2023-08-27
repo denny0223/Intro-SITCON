@@ -326,7 +326,18 @@ output: index.html
 --
 
 # 紀錄
+## [文件存放說明](https://hackmd.io/@SITCON/doc)
 ## [Mailing List](https://groups.google.com/g/sitcon-general) / [Google Drive](https://drive.google.com/drive/folders/0AIx9UW7aBiDgUk9PVA) / [HackMD](https://hackmd.io/@SITCON)
+
+--
+
+# 專案管理
+## [SITCON Camp 2023 GitLab Issue Board](https://gitlab.com/sitcon-tw/camp-2023/sitcon-camp-2023-board/-/boards/5401961)
+
+--
+
+### 電子郵件
+<iframe width="800" height="500" src="https://www.youtube.com/embed/5kXkcR6TKhc?si=Xpas1BcZkwoNr1FT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 --
 
