@@ -104,11 +104,12 @@ output: index.html
 
 --
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/rlCiwaC-UUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/videoseries?list=PLemTXpRsr742drvZ97ruuQSGUnWnOTLoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --
 
 ### 年會主題
+- 2024: Human After All
 - X: Cat in a Maze
 - 2021: 算盤的後裔
 - 2020: #define student
@@ -122,6 +123,7 @@ output: index.html
 --
 
 ### 論壇
+- 2024: Human After All：AI 如何改變遊戲規則？
 - 2022: 現今臺灣資訊教育的探討
 - 2021: 同學你這樣學寫程式？現今教育體系下的程式學習
 - 2020: 你廢文再收掉服務！大型資訊企業決策的自由與責任
@@ -140,15 +142,13 @@ output: index.html
 --
 
 <div align="center">
-  <img style="width: 800px" src="./img/2019panel.jpg" />
+  <img style="width: 800px" src="./img/2024-panel.jpg" />
 </div>
 
 --
 
 ### 投稿議程
 - Presentation / Talk
-
-- Double Espresso
 
 - Espresso / Short Talk
 
@@ -158,8 +158,8 @@ output: index.html
 
 --
 
-# SITCON 2024
-## 2024 / 03 / 09
+# SITCON 2025
+## 2025 / 03 / 08
 ## 中央研究院 人文社會科學館
 
 --
@@ -236,7 +236,18 @@ output: index.html
 
 --
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/oAtiOrpj6DQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/videoseries?list=PLemTXpRsr7428p_EhTxjSJpxMTDg7mM-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+--
+
+# Hackathon
+## https://hackathon.sitcon.org/
+
+--
+
+<div align="center">
+  <img style="width: 800px" src="./img/2024-hackathon.jpg" />
+</div>
 
 --
 
@@ -325,6 +336,10 @@ output: index.html
 
 --
 
+# [SITCON 社群指南](https://sitcon.org/community-guide/)
+
+--
+
 # 紀錄
 ## [文件存放說明](https://hackmd.io/@SITCON/doc)
 ## [Mailing List](https://groups.google.com/g/sitcon-general) / [Google Drive](https://drive.google.com/drive/folders/0AIx9UW7aBiDgUk9PVA) / [HackMD](https://hackmd.io/@SITCON)
@@ -332,7 +347,7 @@ output: index.html
 --
 
 # 專案管理
-## [SITCON Camp 2023 GitLab Issue Board](https://gitlab.com/sitcon-tw/camp-2023/sitcon-camp-2023-board/-/boards/5401961)
+## [SITCON 2024 GitLab Issue Board](https://gitlab.com/sitcon-tw/2024/board/-/boards/)
 
 --
 
