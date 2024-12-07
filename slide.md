@@ -30,6 +30,7 @@ output: index.html
 --
 
 # 緣起
+## https://hackmd.io/@SITCON/2nd-anniv
 
 --
 
@@ -109,6 +110,7 @@ output: index.html
 --
 
 ### 年會主題
+- 2025: Lines of Flight 逃逸路線
 - 2024: Human After All
 - X: Cat in a Maze
 - 2021: 算盤的後裔
@@ -116,6 +118,10 @@ output: index.html
 - 2019: Algorithm in a Box 開箱演算法
 - 2018: Popular Computer Science
 - 2017: Internet For Next Generation
+
+--
+
+### 年會主題 (cont.)
 - 2016: Let's Open Source!
 - 2015: The True Hackers
 - 2014: 學生與創新實做
@@ -158,7 +164,7 @@ output: index.html
 
 --
 
-# SITCON 2025
+# [SITCON 2025](https://sitcon.org/2025/)
 ## 2025 / 03 / 08
 ## 中央研究院 人文社會科學館
 
@@ -347,7 +353,8 @@ output: index.html
 --
 
 # 專案管理
-## [SITCON 2024 GitLab Issue Board](https://gitlab.com/sitcon-tw/2024/board/-/boards/)
+## [GitLab 基本教學](https://hackmd.io/@SITCON/GitLab)
+## [SITCON 2025 GitLab Issue Board](https://gitlab.com/sitcon-tw/2025/board/-/boards/)
 
 --
 
