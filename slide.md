@@ -129,6 +129,7 @@ output: index.html
 --
 
 ### 論壇
+- 2025: Lines of Flight：資訊科技不斷重構，是跨域融合的契機還是枷鎖？
 - 2024: Human After All：AI 如何改變遊戲規則？
 - 2022: 現今臺灣資訊教育的探討
 - 2021: 同學你這樣學寫程式？現今教育體系下的程式學習
@@ -164,8 +165,8 @@ output: index.html
 
 --
 
-# [SITCON 2025](https://sitcon.org/2025/)
-## 2025 / 03 / 08
+# [SITCON 2026](https://sitcon.org/)
+## 2026 / 03 / 28
 ## 中央研究院 人文社會科學館
 
 --
