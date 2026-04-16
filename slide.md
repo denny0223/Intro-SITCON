@@ -1,8 +1,8 @@
 ---
 title: SITCON 學生計算機年會
-description:
+description: 自 2012 年發起，以學生為本、由學生自發舉辦，長期投身學生資訊教育與推廣開源精神，希望引領更多學子踏入資訊的殿堂，更冀望所有對資訊有興趣的學生，能夠在年會裏齊聚一堂，彼此激盪、傳承、啟發，達到「學以致用、教學相長」的實際展現。
 author: Denny Huang
-keywords:
+keywords: SITCON,學生計算機年會,資訊科技,社群,研討會,論壇,工作坊,Summer Camp,Hackathon,定期聚
 url: https://denny.one/Intro-SITCON/
 paginate: true
 ---
