@@ -5,6 +5,19 @@ author: Denny Huang
 keywords: SITCON,學生計算機年會,資訊科技,社群,研討會,論壇,工作坊,Summer Camp,Hackathon,定期聚
 url: https://denny.one/Intro-SITCON/
 paginate: true
+style: |
+  section.youtube-full {
+    padding: 0;
+    overflow: hidden;
+  }
+
+  section.youtube-full iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -71,27 +84,19 @@ paginate: true
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="img/sitcon2013_jserv.jpg" />
-</div>
+![bg](./img/sitcon2013_jserv.jpg)
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="img/sitcon2013_reg.jpg" />
-</div>
+![bg](./img/sitcon2013_reg.jpg)
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="img/sitcon2013_people.jpg" />
-</div>
+![bg](./img/sitcon2013_people.jpg)
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/green-shirt.jpg" />
-</div>
+![bg](./img/green-shirt.jpg)
 
 ---
 
@@ -99,13 +104,27 @@ paginate: true
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/2019kn.jpg" />
-</div>
+![bg](./img/2019kn.jpg)
 
 ---
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/videoseries?list=PLemTXpRsr742drvZ97ruuQSGUnWnOTLoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![bg](./img/2026vp1.jpg)
+
+---
+
+![bg](./img/2026vp2.jpg)
+
+---
+
+<!-- _class: youtube-full -->
+
+<iframe
+  src="https://www.youtube.com/embed/videoseries?list=PLemTXpRsr742drvZ97ruuQSGUnWnOTLoh"
+  title="YouTube playlist"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe>
 
 ---
 
@@ -130,6 +149,7 @@ paginate: true
 ---
 
 # 論壇
+- 2026: 你的大腦被託管了嗎？當作業與思考都外包給 AI 之後
 - 2025: Lines of Flight：資訊科技不斷重構，是跨域融合的契機還是枷鎖？
 - 2024: Human After All：AI 如何改變遊戲規則？
 - 2022: 現今臺灣資訊教育的探討
@@ -149,9 +169,7 @@ paginate: true
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/2024-panel.jpg" />
-</div>
+![bg](./img/2024-panel.jpg)
 
 ---
 
@@ -178,33 +196,19 @@ paginate: true
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/workshop1.jpg" />
-</div>
+![bg](./img/security-workshop.png)
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/workshop2.jpg" />
-</div>
+![bg](./img/tosw1.jpg)
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/security-workshop.png" />
-</div>
+![bg](./img/tosw2.jpg)
 
 ---
 
-<img src="./img/tosw1.jpg">
-
----
-
-<img src="./img/tosw2.jpg">
-
----
-
-<img src="./img/tosw3.jpg">
+![bg](./img/tosw3.jpg)
 
 ---
 
@@ -246,7 +250,15 @@ paginate: true
 
 ---
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/videoseries?list=PLemTXpRsr7428p_EhTxjSJpxMTDg7mM-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- _class: youtube-full -->
+
+<iframe
+  src="https://www.youtube.com/embed/videoseries?list=PLemTXpRsr7428p_EhTxjSJpxMTDg7mM-X"
+  title="YouTube playlist"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe>
 
 ---
 
@@ -255,9 +267,7 @@ paginate: true
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/2024-hackathon.jpg" />
-</div>
+![bg](./img/2024-hackathon.jpg)
 
 ---
 
@@ -269,9 +279,7 @@ paginate: true
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/hackgen-nccu.jpg" />
-</div>
+![bg](./img/hackgen-nccu.jpg)
 
 ---
 
@@ -295,15 +303,11 @@ paginate: true
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/2018hoc.jpg" />
-</div>
+![bg](./img/2018hoc.jpg)
 
 ---
 
-<div align="center">
-  <img style="width: 800px" src="./img/2015hoc3.jpg" />
-</div>
+![bg](./img/2015hoc3.jpg)
 
 ---
 
